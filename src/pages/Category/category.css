@@ -1,0 +1,18 @@
+.category{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.box{
+    margin-top: 20px;
+    width: 250px;
+    height: 200px;
+    justify-content: space-around;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.box img{
+    width: 100%;
+    height: 90%;
+}
